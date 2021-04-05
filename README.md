@@ -1,6 +1,7 @@
 # Profile Switcher for Firefox
 
-Create, edit, delete and switch between browser profiles seamlessly in Firefox. Inspired by Chrome's profile switcher.
+Create, edit, delete and switch between browser profiles seamlessly in Firefox. Inspired by Chrome's profile switcher.  
+This fork has modified hex values to, so that the background is dark, and the text white.
 
 ## Installation
 
